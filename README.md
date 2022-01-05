@@ -9,6 +9,6 @@
       - **Amend the existing file**: files/staff.txt, add James Neo to a new line
 4) **Commit your staged changes** using the commit message "amend inventory and staff added James Neo".
 5) Download [gitruler.jar](https://github.com/rcraggs/gitruler/releases/download/V1.2.5/gitruler.jar) file
-6) Use the command **-jar [path-to-gitruler.jar] -c [path-to-gitrules.json] -r [path-to-local-repo]**
+6) Use the command **java -jar [path-to-gitruler.jar] -c [path-to-gitrules.json] -r [path-to-local-repo]**
       
-e.g. -jar ./gitruler.jar -c ./gitrules.json -r ./git-elearning-sddvops-exercise1
+e.g. java -jar ./gitruler.jar -c ./gitrules.json -r ./git-elearning-sddvops-exercise1
